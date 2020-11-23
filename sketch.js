@@ -101,17 +101,4 @@ function goTo(){
 
 
 
-// var buttonText = "PLAY"
-// button = createButton(buttonText);
-// button.style("background-color", "orange");
-// button.style("color", "red");
-// button.style("cursor", "pointer")
-// button.style("font-size", "20px");
-// button.style("width", "120px");
-// button.style("font-family", myFont);
-// button.style("padding", "8px 20px 8px 20px");
-// button.style("border-radius", "15px");
-// button.style("border-style", "solid");
-// button.style("border-color", "red");
-// button.style("border-width", "2px");
-// button.position(windowWidth / 2 - 60, windowHeight / 20)
+
