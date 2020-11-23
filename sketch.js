@@ -91,7 +91,7 @@ let p1 = new p5(sketch);
 function goTo(){
   if(input.value() != ""){
  nome = input.value();
-    window.open(url.origin + '/index2.html?nome=' + nome, "_self");
+    window.open(url.origin + '/2020-04-martinabracchi/index2.html?nome=' + nome, "_self");
 
   }
 }
